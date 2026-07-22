@@ -1,0 +1,3 @@
+[dependecies]
+gl = "0.14"
+winit = "0.29"
